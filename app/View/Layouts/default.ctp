@@ -3,7 +3,7 @@
     autor: Krzysztof Pawluch
  */
 
-$cakeDescription = __d('cake_dev', 'PuZZle! ');
+$cakeDescription = __d('cake_dev', 'Inwentor! ');
 ?>
 <!DOCTYPE html>
 
@@ -13,7 +13,7 @@ $cakeDescription = __d('cake_dev', 'PuZZle! ');
 	<?php echo $this->Html->charset(); ?>
 	<title>
 		<?php /*echo $cakeDescription*/ ?>:
-		<?php echo 'PuZZle :';/*$title_for_layout;*/ ?>
+		<?php echo 'Inwentor :';/*$title_for_layout;*/ ?>
 	</title>
 	<?php
 		echo $this->Html->meta('icon');
